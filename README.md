@@ -4,7 +4,7 @@ This repository is home to AlarmV2_JS, a JavaScript-based alarm application that
 
 ## How to Use
 
-- Visit the GitHub Pages site to play online. => [Alarm App](https://omarmosharawi.github.io/AlarmV2_JS/)
+- Visit the GitHub Pages site to use online. => [Alarm App](https://omarmosharawi.github.io/AlarmV2_JS/)
 
 ## Features
 
